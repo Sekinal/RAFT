@@ -1,0 +1,84 @@
+# Datasets (large files)
+datasets/
+datasets/**
+runs/
+runs/**
+outputs/
+outputs/**
+
+# Models (will be downloaded)
+models/
+models/**
+*.pth
+*.pt
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docker
+.dockerignore
+docker-compose.yml
+docker-compose.*.yml
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Pixi cache directory (but NOT pixi.lock!)
+.pixi/
+
+# Documentation
+*.md
+!README.md
+docs/
+
+# Test files
+test/
+tests/
+*.test.py
