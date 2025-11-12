@@ -1,12 +1,7 @@
-Here's a thorough README README on how to run the RAFT and ResNet optical flow feature extraction pipeline for EgoEgo, assuming no docker-compose and using your Docker setup.
 
-***
-
-# README: RAFT + ResNet Optical Flow Feature Extraction for EgoEgo
+# RAFT + ResNet Optical Flow Feature Extraction for EgoEgo
 
 This guide explains how to run the RAFT optical flow feature extraction and ResNet-based feature embedding steps for preparation of EgoEgo full-body pose estimation from egocentric videos.
-
-***
 
 ## Prerequisites
 
